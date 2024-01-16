@@ -3,7 +3,11 @@
     <h1>hii world helo world</h1>
     <h2>timerr</h2>
     <p>its 9 pm get ready</p>
+<<<<<<< HEAD
     <p>heyyy</p>
+=======
+    <p>edited </p>
+>>>>>>> 3e12ef6edf4a6e81472f6ba2db7cfd7a29834ea6
   </div>
 </template>
 
